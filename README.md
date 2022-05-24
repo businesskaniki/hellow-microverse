@@ -1,7 +1,7 @@
 
 # hello microverse
 
-> the porpose of this project is to test our knowledge on git and github flows.
+ porpose of this  is to test our knowledge on git and github flows and doccumenting your repo in a professional way.
 
 
 ## Built With
